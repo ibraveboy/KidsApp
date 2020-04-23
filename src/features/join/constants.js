@@ -1,0 +1,2 @@
+export const EDIT_USER_FIELD = "EDIT_USER_FIELD"
+export const SET_ALL_USER_FIELDS = "SET_ALL_USER_FIELDS"
