@@ -29,6 +29,7 @@ build/
 local.properties
 *.iml
 release/
+keyStore
 # node.js
 #
 node_modules/
